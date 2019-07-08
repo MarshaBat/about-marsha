@@ -1,8 +1,20 @@
 body {
 	text-align: center;
+	background-color: gray;
 }
 
 ul {
 	display: inline-block;
 	text-align: left;
+}
+
+img {
+	border-radius: 50%;
+	border: solid white 5px;
+}
+
+div#container {
+	background-color: lightgray;
+	border-radius: 5%;
+	padding: 10px;
 }
